@@ -4,7 +4,7 @@ Docker image with embedded Node 9 and Chrome Headless preconfigured for Angular 
 
 ### Get the image: 
 
-`docker pull avatsaev/angular-chrome-headless`
+`docker pull chetbis/node-git-chrome`
 
 #### Launch scripts:
 
